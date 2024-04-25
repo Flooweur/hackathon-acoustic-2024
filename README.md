@@ -12,5 +12,6 @@ Link to some ressources that we have produced throughout the project.
 Benchmarking Knn and Linear Regression models :
 https://docs.google.com/spreadsheets/d/1ydzCioLsrerWybY39I1XiRS06cIOzkyUFq0-m-peqBk/edit?usp=sharing
 
+Technical pitch slides : https://www.canva.com/design/DAGDZyedfqk/sw603pLlGFDY7jPSj1u4Sw/edit?utm_content=DAGDZyedfqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Marketing pitch slides: https://prezi.com/view/bXUvUyPw818iu4SFXNFI/
