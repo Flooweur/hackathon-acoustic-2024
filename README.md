@@ -7,3 +7,10 @@ In many real-world scenarios, such as smart home applications, security systems,
 
 Data Source: 
 The dataset associated with this project is available on the following website: https://sites.google.com/view/soundcam
+
+Link to some ressources that we have produced throughout the project.
+Benchmarking Knn and Linear Regression models :
+https://docs.google.com/spreadsheets/d/1ydzCioLsrerWybY39I1XiRS06cIOzkyUFq0-m-peqBk/edit?usp=sharing
+
+
+Marketing pitch slides: https://prezi.com/view/bXUvUyPw818iu4SFXNFI/
